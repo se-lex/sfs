@@ -240,7 +240,7 @@ Nya regler införda 2022 (lag 2022:1712) för att möjliggöra:
 
 ### 12.3 Tillgänglighetsdirektivet
 
-Implementering av Marrakech-direktivet (2018) för att förbättra tillgänglighet för personer med funktionsnedsättning.
+Implementering av Marrakesh-direktivet (2018) för att förbättra tillgänglighet för personer med funktionsnedsättning.
 
 ### 12.4 Delningsplattformar
 
@@ -300,7 +300,7 @@ Den svenska upphovsrätten är modern och väl anpassad till det digitala samhä
 ### Relevanta ändringsförfattningar
 Upphovsrättslagen har ändrats genom ett flertal ändringsförfattningar, varav de mest betydande är:
 - Lag (2022:1712) - Implementering av DSM-direktivet
-- Lag (2018:1099) - Implementering av Marrakech-direktivet
+- Lag (2018:1099) - Implementering av Marrakesh-direktivet
 - Lag (2005:359) - Implementering av Infosoc-direktivet
 - Lag (1993:1007) - Anpassning till EES
 
