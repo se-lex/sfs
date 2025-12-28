@@ -299,9 +299,9 @@ Den svenska upphovsrätten är modern och väl anpassad till det digitala samhä
 
 ### Relevanta ändringsförfattningar
 Upphovsrättslagen har ändrats genom ett flertal ändringsförfattningar, varav de mest betydande är:
-- Lag (2022:1712) - Implementation av DSM-direktivet
-- Lag (2018:1099) - Implementation av Marrakech-direktivet
-- Lag (2005:359) - Implementation av Infosoc-direktivet
+- Lag (2022:1712) - Implementering av DSM-direktivet
+- Lag (2018:1099) - Implementering av Marrakech-direktivet
+- Lag (2005:359) - Implementering av Infosoc-direktivet
 - Lag (1993:1007) - Anpassning till EES
 
 ### Internationella konventioner och EU-direktiv
